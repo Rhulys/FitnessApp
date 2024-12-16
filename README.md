@@ -98,7 +98,7 @@ Contribuições são bem-vindas!
 Faça um fork do projeto.
 ### Crie uma branch para sua feature ou correção:
 
-Copiar código
+Copiar código<br/>
 git checkout -b minha-feature
 
 ### Commit suas alterações:
